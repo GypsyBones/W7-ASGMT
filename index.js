@@ -147,7 +147,6 @@ be the first and the last name separated by a space.
 */
 
 let thisFunction = (firstName, lastName) => console.log(`${firstName}, ${lastName}`);
-
 thisFunction('Alyssa', 'Sabaj');
 
 /*
